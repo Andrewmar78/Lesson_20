@@ -1,4 +1,4 @@
-from dao.movie import MovieDAO
+from demostration_solution.dao.movie import MovieDAO
 
 
 class MovieService:
