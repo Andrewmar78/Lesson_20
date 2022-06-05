@@ -12,7 +12,6 @@ def movies_dao():
     dao.create = MagicMock()
     dao.update = MagicMock()
     dao.delete = MagicMock()
-
     return dao
 
 
